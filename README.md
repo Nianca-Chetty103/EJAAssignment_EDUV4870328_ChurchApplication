@@ -1,39 +1,47 @@
 # EJAAssignment_EDUV4870328_ChurchApplication
 
 ## Features
-🔐 User Authentication
+### 🔐 User Authentication
 User registration and login
 Username and password validation
 Session management for authenticated users
 Role-based user access
-👤 User Management
+
+### 👤 User Management
 Store and manage user information
 Support for different user roles
 Prevent duplicate usernames during registration
-📋 Church Information Management
+
+### 📋 Church Information Management
 Display church-related information
 Manage church activities and services
 Provide users with relevant church information
-📅 Event Management
+
+### 📅 Event Management
 View upcoming church events
 Store event details
 Allow users to access important event information
-💬 Communication
+
+### 💬 Communication
 Provide a platform for users to interact with the system
 Display relevant announcements and information
-🖥️ Dynamic Web Pages
+
+### 🖥️ Dynamic Web Pages
 JSP pages for displaying dynamic content
 Servlets for processing user requests
 HTML and CSS for the user interface
-🔒 Session Management
+
+### 🔒 Session Management
 Creates an HTTP session after successful authentication
 Keeps track of logged-in users
 Prevents unauthenticated users from accessing restricted pages
-⚠️ Input Validation
+
+### ⚠️ Input Validation
 Checks that required fields are completed
 Validates login and registration information
 Handles invalid user input with appropriate responses
-🛠️ What I Did to Build the Project
+
+### What I Did to Build the Project
 
 I developed the application as a Java web application using the MVC-style separation between the user interface, application logic, and data.
 
