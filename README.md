@@ -1,6 +1,6 @@
 # EJAAssignment_EDUV4870328_ChurchApplication
 
-![Image description](path/to/image.png))
+![Image description](https://github.com/Nianca-Chetty103/EJAAssignment_EDUV4870328_ChurchApplication/blob/main/Screenshot%202026-08-28%20084723.png))
 ## Features
 ### 🔐 User Authentication
 User registration and login
