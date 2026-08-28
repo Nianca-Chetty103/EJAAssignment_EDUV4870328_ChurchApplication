@@ -1,5 +1,6 @@
 # EJAAssignment_EDUV4870328_ChurchApplication
 
+![Image description](path/to/image.png))
 ## Features
 ### 🔐 User Authentication
 User registration and login
